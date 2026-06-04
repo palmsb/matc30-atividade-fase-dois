@@ -24,3 +24,4 @@ O retorno será um `int` retornando a soma de todos os itens do array.
 
 A solução é dada através da criação de duas classes, uma para ser o Array (`List`) e a outra para ser cada elemento (`No`).
 Através disso é possível usar essa lista de mão única (Só podemos acessar o próximo item) para somar cada um de seus elementos através da função `soma`, onde todo o array é percorrido e cada elemento é adicionado na variável local `i`.
+Após essa varredura, é retornado o valor da soma dos elementos.
