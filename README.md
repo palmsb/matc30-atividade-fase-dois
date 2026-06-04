@@ -23,13 +23,14 @@
 
 ## Estrutura das pastas
 
-matc30-atividade-fase-dois
+```
+matc30-atividade-fase-dois/
 │
 ├── README.md
 │
 ├── atividade1-soma-dois-numeros/
-│   ├── solucao-q1.py         
-│   └── README.md           
+│   ├── solucao-q1.py
+│   └── README.md
 │
 ├── atividade2-soma-array/
 │   ├── solucao-q2.py
@@ -42,6 +43,7 @@ matc30-atividade-fase-dois
 └── atividade4-organiza-containers/
     ├── solucao-q4.py
     └── README.md
+```
 
 ## Orientações
 Sem uso de funções prontas (sum, sort, etc.).  
