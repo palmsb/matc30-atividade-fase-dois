@@ -56,13 +56,13 @@ class List:
 def main():
   Lista = List()
   tamanho = int(input("Digite o tamanho da lista: "))
-  while tamanho < 0 or tamanho > 1000:
-    print("Tamanho inválido, necessita ser no mínimo 0 e menor que 1000.")
+  while tamanho < 0:
+    print("Tamanho inválido, necessita ser no mínimo 0.")
     tamanho = int(input("Digite o tamanho da lista: "))
 
   for k in range(tamanho):
     valor = int(input("Digite o valor: "))
-    while valor < 0:
+    while valor < 1000:
       print("Valor inválido")
       valor = int(input("Digite o valor: "))
     Lista.append(valor)
