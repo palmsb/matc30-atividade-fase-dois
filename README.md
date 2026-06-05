@@ -16,8 +16,8 @@
 ## Prazos
 | Atividade | Prazo |
 |-----------|-------|
-| Atividade 1 | 04/06/2026 |
-| Atividade 2 | 11/06/2026 |
+| Atividade 1 ✅| 04/06/2026 |
+| Atividade 2 ✅| 11/06/2026 |
 | Atividade 3 | 18/06/2026 |
 | Atividade 4 | 23/06/2026 |
 
